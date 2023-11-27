@@ -1,0 +1,10 @@
+Stage - đánh dấu
+Commit - nội dung
+Push - đẩy lên server
+Pull - lấy về
+Revert - backup version
+Discard - backup file
+
+Những thứ thường push lên: Asset - Package - Project setting
+
+
